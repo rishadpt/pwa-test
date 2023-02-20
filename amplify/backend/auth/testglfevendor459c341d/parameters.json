@@ -1,0 +1,17 @@
+{
+  "authSelections": "userPoolOnly",
+  "resourceName": "testglfevendor459c341d",
+  "serviceType": "imported",
+  "region": "eu-north-1",
+  "usernameAttributes": [
+    "email"
+  ],
+  "requiredAttributes": [],
+  "passwordPolicyMinLength": 8,
+  "passwordPolicyCharacters": [],
+  "mfaConfiguration": "OFF",
+  "autoVerifiedAttributes": [
+    "email"
+  ],
+  "mfaTypes": []
+}

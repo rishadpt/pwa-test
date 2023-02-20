@@ -1,0 +1,25 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-testglfevendor-dev-114816-authRole",
+      "UnauthRoleArn": "arn:aws:iam::459431050458:role/amplify-testglfevendor-dev-114816-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::459431050458:role/amplify-testglfevendor-dev-114816-authRole",
+      "Region": "eu-north-1",
+      "DeploymentBucketName": "amplify-testglfevendor-dev-114816-deployment",
+      "UnauthRoleName": "amplify-testglfevendor-dev-114816-unauthRole",
+      "StackName": "amplify-testglfevendor-dev-114816",
+      "StackId": "arn:aws:cloudformation:eu-north-1:459431050458:stack/amplify-testglfevendor-dev-114816/3d4711d0-988a-11ed-8226-062cbd0534e8",
+      "AmplifyAppId": "d29671dofi2ydo"
+    },
+    "categories": {
+      "auth": {
+        "testglfevendor459c341d": {
+          "userPoolId": "eu-north-1_2KIXXwzSd",
+          "userPoolName": "TestGC",
+          "webClientId": "rttpdcclinip01h9or8eq3h57",
+          "nativeClientId": "rttpdcclinip01h9or8eq3h57"
+        }
+      }
+    }
+  }
+}
